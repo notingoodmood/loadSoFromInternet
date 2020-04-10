@@ -1,0 +1,3 @@
+/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/native-lib.dir
