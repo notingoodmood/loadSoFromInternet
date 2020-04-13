@@ -1,0 +1,207 @@
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"supportedProtocolVersions":[{"isExperimental":true,"major":1,"minor":1}],"type":"hello"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Replacing toolchain '/Users/lvzhiwei/Downloads/android-ndk-r11c/build/cmake/android.toolchain.cmake' with wrapper '/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/mips/pre-ndk-r15-wrapper-android.toolchain.cmake'
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "handshake",
+  "cookie": "gradle-cmake-cookie",
+  "protocolVersion": {
+    "isExperimental": true,
+    "major": 1,
+    "minor": 1
+  },
+  "sourceDirectory": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app",
+  "buildDirectory": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/mips",
+  "generator": "Ninja"
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"gradle-cmake-cookie","inReplyTo":"handshake","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "configure",
+  "cacheArguments": [
+    "",
+    "-DCMAKE_CXX_FLAGS\u003d-frtti -fexceptions",
+    "-DCMAKE_BUILD_TYPE\u003dRelease",
+    "-DCMAKE_TOOLCHAIN_FILE\u003d/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/mips/pre-ndk-r15-wrapper-android.toolchain.cmake",
+    "-DANDROID_ABI\u003dmips",
+    "-DANDROID_NDK\u003d/Users/lvzhiwei/Downloads/android-ndk-r11c",
+    "-DANDROID_PLATFORM\u003dandroid-24",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003dmips",
+    "-DCMAKE_ANDROID_NDK\u003d/Users/lvzhiwei/Downloads/android-ndk-r11c",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/lvzhiwei/Downloads/loadSoFromInternet/app/build/intermediates/cmake/release/obj/mips",
+    "-DCMAKE_MAKE_PROGRAM\u003d/Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_SYSTEM_VERSION\u003d24"
+  ]
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake Error at .cxx/cmake/release/mips/pre-ndk-r15-wrapper-android.toolchain.cmake:2 (include):\n  include could not find load file:\n\n    /Users/lvzhiwei/Downloads/android-ndk-r11c/build/cmake/android.toolchain.cmake\nCall Stack (most recent call first):\n  /Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\n  CMakeLists.txt\n\n","title":"Error","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake Error at /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/mips/pre-ndk-r15-wrapper-android.toolchain.cmake:2 (include):
+  include could not find load file:
+
+    /Users/lvzhiwei/Downloads/android-ndk-r11c/build/cmake/android.toolchain.cmake
+Call Stack (most recent call first):
+  /Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)
+  CMakeLists.txt
+
+CMAKE SERVER: CMake Error at /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/mips/pre-ndk-r15-wrapper-android.toolchain.cmake:2 (include):
+  include could not find load file:
+
+    /Users/lvzhiwei/Downloads/android-ndk-r11c/build/cmake/android.toolchain.cmake
+Call Stack (most recent call first):
+  /Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)
+  CMakeLists.txt
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake Error at .cxx/cmake/release/mips/pre-ndk-r15-wrapper-android.toolchain.cmake:2 (include):\n  include could not find load file:\n\n    /Users/lvzhiwei/Downloads/android-ndk-r11c/build/cmake/android.toolchain.cmake\nCall Stack (most recent call first):\n  .cxx/cmake/release/mips/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  CMakeLists.txt\n\n","title":"Error","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake Error at /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/mips/pre-ndk-r15-wrapper-android.toolchain.cmake:2 (include):
+  include could not find load file:
+
+    /Users/lvzhiwei/Downloads/android-ndk-r11c/build/cmake/android.toolchain.cmake
+Call Stack (most recent call first):
+  .cxx/cmake/release/mips/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  CMakeLists.txt
+
+CMAKE SERVER: CMake Error at /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/mips/pre-ndk-r15-wrapper-android.toolchain.cmake:2 (include):
+  include could not find load file:
+
+    /Users/lvzhiwei/Downloads/android-ndk-r11c/build/cmake/android.toolchain.cmake
+Call Stack (most recent call first):
+  .cxx/cmake/release/mips/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  CMakeLists.txt
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"The C compiler identification is AppleClang 11.0.3.11030032","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: The C compiler identification is AppleClang 11.0.3.11030032
+CMAKE SERVER: The C compiler identification is AppleClang 11.0.3.11030032
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"The CXX compiler identification is AppleClang 11.0.3.11030032","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: The CXX compiler identification is AppleClang 11.0.3.11030032
+CMAKE SERVER: The CXX compiler identification is AppleClang 11.0.3.11030032
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc
+CMAKE SERVER: Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake Error at /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/mips/pre-ndk-r15-wrapper-android.toolchain.cmake:2 (include):\n  include could not find load file:\n\n    /Users/lvzhiwei/Downloads/android-ndk-r11c/build/cmake/android.toolchain.cmake\nCall Stack (most recent call first):\n  /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/mips/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/mips/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n","title":"Error","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake Error at /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/mips/pre-ndk-r15-wrapper-android.toolchain.cmake:2 (include):
+  include could not find load file:
+
+    /Users/lvzhiwei/Downloads/android-ndk-r11c/build/cmake/android.toolchain.cmake
+Call Stack (most recent call first):
+  /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/mips/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/mips/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: CMake Error at /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/mips/pre-ndk-r15-wrapper-android.toolchain.cmake:2 (include):
+  include could not find load file:
+
+    /Users/lvzhiwei/Downloads/android-ndk-r11c/build/cmake/android.toolchain.cmake
+Call Stack (most recent call first):
+  /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/mips/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/mips/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake Error at /Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake:37 (try_compile):\n  Failed to configure test project build system.\nCall Stack (most recent call first):\n  CMakeLists.txt\n\n","title":"Error","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake Error at /Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake:37 (try_compile):
+  Failed to configure test project build system.
+Call Stack (most recent call first):
+  CMakeLists.txt
+
+CMAKE SERVER: CMake Error at /Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake:37 (try_compile):
+  Failed to configure test project build system.
+Call Stack (most recent call first):
+  CMakeLists.txt
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":1000,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Configuring incomplete, errors occurred!\nSee also \"/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/mips/CMakeFiles/CMakeOutput.log\".","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Configuring incomplete, errors occurred!
+See also "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/mips/CMakeFiles/CMakeOutput.log".
+CMAKE SERVER: Configuring incomplete, errors occurred!
+See also "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/mips/CMakeFiles/CMakeOutput.log".
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","errorMessage":"Configuration failed.","inReplyTo":"configure","type":"error"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Configuration failed.

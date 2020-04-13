@@ -1,0 +1,242 @@
+[
+  {
+    "level": "WARN",
+    "message": "Platform version \u002728\u0027 is beyond \u002724\u0027, the maximum API level supported by this NDK.",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 24 min SDK version: armeabi",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027/Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "Replacing toolchain \u0027/Users/lvzhiwei/Downloads/android-ndk-r11c/build/cmake/android.toolchain.cmake\u0027 with wrapper \u0027/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi/pre-ndk-r15-wrapper-android.toolchain.cmake\u0027",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi/android_gradle_build.json due to:",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi/android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi/build_command.txt, will remove stale json folder",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi\u0027",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi\u0027",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : /Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake\narguments : \n-H/Users/lvzhiwei/Downloads/loadSoFromInternet/app\n-DCMAKE_CXX_FLAGS\u003d-frtti -fexceptions\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi/pre-ndk-r15-wrapper-android.toolchain.cmake\n-DANDROID_ABI\u003darmeabi\n-DANDROID_NDK\u003d/Users/lvzhiwei/Downloads/android-ndk-r11c\n-DANDROID_PLATFORM\u003dandroid-24\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi\n-DCMAKE_ANDROID_NDK\u003d/Users/lvzhiwei/Downloads/android-ndk-r11c\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/lvzhiwei/Downloads/loadSoFromInternet/app/build/intermediates/cmake/release/obj/armeabi\n-DCMAKE_MAKE_PROGRAM\u003d/Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d24\n-B/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi\n-GNinja\njvmArgs : \n\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"/Users/lvzhiwei/Downloads/loadSoFromInternet/app\",\n  \"buildDirectory\": \"/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_CXX_FLAGS\\u003d-frtti -fexceptions\",\n    \"-DCMAKE_BUILD_TYPE\\u003dRelease\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi/pre-ndk-r15-wrapper-android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003darmeabi\",\n    \"-DANDROID_NDK\\u003d/Users/lvzhiwei/Downloads/android-ndk-r11c\",\n    \"-DANDROID_PLATFORM\\u003dandroid-24\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darmeabi\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/Users/lvzhiwei/Downloads/android-ndk-r11c\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/Users/lvzhiwei/Downloads/loadSoFromInternet/app/build/intermediates/cmake/release/obj/armeabi\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003d/Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d24\"\n  ]\n}\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Error at .cxx/cmake/release/armeabi/pre-ndk-r15-wrapper-android.toolchain.cmake:2 (include):\\n  include could not find load file:\\n\\n    /Users/lvzhiwei/Downloads/android-ndk-r11c/build/cmake/android.toolchain.cmake\\nCall Stack (most recent call first):\\n  /Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\\n  CMakeLists.txt\\n\\n\",\"title\":\"Error\",\"type\":\"message\"}\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "ERROR",
+    "message": "CMake Error at /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi/pre-ndk-r15-wrapper-android.toolchain.cmake:2 (include):\n  include could not find load file:\n\n    /Users/lvzhiwei/Downloads/android-ndk-r11c/build/cmake/android.toolchain.cmake\nCall Stack (most recent call first):\n  /Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\n  CMakeLists.txt\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Error at .cxx/cmake/release/armeabi/pre-ndk-r15-wrapper-android.toolchain.cmake:2 (include):\\n  include could not find load file:\\n\\n    /Users/lvzhiwei/Downloads/android-ndk-r11c/build/cmake/android.toolchain.cmake\\nCall Stack (most recent call first):\\n  .cxx/cmake/release/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\\n  CMakeLists.txt\\n\\n\",\"title\":\"Error\",\"type\":\"message\"}\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "ERROR",
+    "message": "CMake Error at /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi/pre-ndk-r15-wrapper-android.toolchain.cmake:2 (include):\n  include could not find load file:\n\n    /Users/lvzhiwei/Downloads/android-ndk-r11c/build/cmake/android.toolchain.cmake\nCall Stack (most recent call first):\n  .cxx/cmake/release/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  CMakeLists.txt\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"The C compiler identification is AppleClang 11.0.3.11030032\",\"type\":\"message\"}\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "The C compiler identification is AppleClang 11.0.3.11030032",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"The CXX compiler identification is AppleClang 11.0.3.11030032\",\"type\":\"message\"}\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "The CXX compiler identification is AppleClang 11.0.3.11030032",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc\",\"type\":\"message\"}\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Error at /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi/pre-ndk-r15-wrapper-android.toolchain.cmake:2 (include):\\n  include could not find load file:\\n\\n    /Users/lvzhiwei/Downloads/android-ndk-r11c/build/cmake/android.toolchain.cmake\\nCall Stack (most recent call first):\\n  /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\\n  /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\\n\\n\",\"title\":\"Error\",\"type\":\"message\"}\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "ERROR",
+    "message": "CMake Error at /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi/pre-ndk-r15-wrapper-android.toolchain.cmake:2 (include):\n  include could not find load file:\n\n    /Users/lvzhiwei/Downloads/android-ndk-r11c/build/cmake/android.toolchain.cmake\nCall Stack (most recent call first):\n  /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Error at /Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake:37 (try_compile):\\n  Failed to configure test project build system.\\nCall Stack (most recent call first):\\n  CMakeLists.txt\\n\\n\",\"title\":\"Error\",\"type\":\"message\"}\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "ERROR",
+    "message": "CMake Error at /Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake:37 (try_compile):\n  Failed to configure test project build system.\nCall Stack (most recent call first):\n  CMakeLists.txt\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring incomplete, errors occurred!\\nSee also \\\"/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi/CMakeFiles/CMakeOutput.log\\\".\",\"type\":\"message\"}\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring incomplete, errors occurred!\nSee also \"/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi/CMakeFiles/CMakeOutput.log\".",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"errorMessage\":\"Configuration failed.\",\"inReplyTo\":\"configure\",\"type\":\"error\"}\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "ERROR",
+    "message": "Configuration failed.",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed with problem. Exception: com.android.ide.common.process.ProcessException: Error configuring CMake server (/Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/bin).\r\nCMake Error at .cxx/cmake/release/armeabi/pre-ndk-r15-wrapper-android.toolchain.cmake:2 (include):\n  include could not find load file:\n\n    /Users/lvzhiwei/Downloads/android-ndk-r11c/build/cmake/android.toolchain.cmake\nCall Stack (most recent call first):\n  /Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\n  CMakeLists.txt\n\n\nCMake Error at .cxx/cmake/release/armeabi/pre-ndk-r15-wrapper-android.toolchain.cmake:2 (include):\n  include could not find load file:\n\n    /Users/lvzhiwei/Downloads/android-ndk-r11c/build/cmake/android.toolchain.cmake\nCall Stack (most recent call first):\n  .cxx/cmake/release/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  CMakeLists.txt\n\n\nThe C compiler identification is AppleClang 11.0.3.11030032\nThe CXX compiler identification is AppleClang 11.0.3.11030032\nCheck for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc\nCMake Error at /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi/pre-ndk-r15-wrapper-android.toolchain.cmake:2 (include):\n  include could not find load file:\n\n    /Users/lvzhiwei/Downloads/android-ndk-r11c/build/cmake/android.toolchain.cmake\nCall Stack (most recent call first):\n  /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  /Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n\nCMake Error at /Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake:37 (try_compile):\n  Failed to configure test project build system.\nCall Stack (most recent call first):\n  CMakeLists.txt\n\n\nConfiguring incomplete, errors occurred!\nSee also \"/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/armeabi/CMakeFiles/CMakeOutput.log\".\n",
+    "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+    "tag": "release|armeabi"
+  }
+]

@@ -1,0 +1,229 @@
+{
+  "abi": "MIPS64",
+  "abiPlatformVersion": 24,
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "cmake": {
+    "cmakeArtifactsBaseFolder": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/debug/mips64",
+    "cmakeServerLogFile": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/debug/mips64/cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cxx/debug/mips64",
+    "effectiveConfiguration": {
+      "name": "traditional-android-studio-cmake-environment",
+      "description": "Composite reified CMakeSettings configuration",
+      "generator": "Ninja",
+      "inheritEnvironments": [
+        "ndk"
+      ],
+      "buildRoot": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/debug/mips64",
+      "cmakeToolchain": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/debug/mips64/pre-ndk-r15-wrapper-android.toolchain.cmake",
+      "cmakeExecutable": "/Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
+      "variables": [
+        {
+          "name": "CMAKE_CXX_FLAGS",
+          "value": "-frtti -fexceptions"
+        },
+        {
+          "name": "CMAKE_BUILD_TYPE",
+          "value": "Debug"
+        },
+        {
+          "name": "CMAKE_TOOLCHAIN_FILE",
+          "value": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/debug/mips64/pre-ndk-r15-wrapper-android.toolchain.cmake"
+        },
+        {
+          "name": "ANDROID_ABI",
+          "value": "mips64"
+        },
+        {
+          "name": "ANDROID_NDK",
+          "value": "/Users/lvzhiwei/Downloads/android-ndk-r11c"
+        },
+        {
+          "name": "ANDROID_PLATFORM",
+          "value": "android-24"
+        },
+        {
+          "name": "CMAKE_ANDROID_ARCH_ABI",
+          "value": "mips64"
+        },
+        {
+          "name": "CMAKE_ANDROID_NDK",
+          "value": "/Users/lvzhiwei/Downloads/android-ndk-r11c"
+        },
+        {
+          "name": "CMAKE_EXPORT_COMPILE_COMMANDS",
+          "value": "ON"
+        },
+        {
+          "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
+          "value": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/build/intermediates/cmake/debug/obj/mips64"
+        },
+        {
+          "name": "CMAKE_MAKE_PROGRAM",
+          "value": "/Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
+        },
+        {
+          "name": "CMAKE_SYSTEM_NAME",
+          "value": "Android"
+        },
+        {
+          "name": "CMAKE_SYSTEM_VERSION",
+          "value": "24"
+        }
+      ]
+    }
+  },
+  "cxxBuildFolder": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/debug/mips64",
+  "info": {
+    "abi": "MIPS64",
+    "bitness": 64,
+    "deprecated": false,
+    "default": true
+  },
+  "originalCxxBuildFolder": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/debug/mips64",
+  "variant": {
+    "buildSystemArgumentList": [],
+    "buildTargetSet": [],
+    "cFlagsList": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "cppFlagsList": [
+      "-frtti -fexceptions"
+    ],
+    "isDebuggableEnabled": true,
+    "module": {
+      "buildSystem": "CMAKE",
+      "cmake": {
+        "cmakeExe": "/Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
+        "minimumCmakeVersion": "3.10.2",
+        "ninjaExe": "/Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
+      },
+      "cmakeToolchainFile": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/debug/mips64/pre-ndk-r15-wrapper-android.toolchain.cmake",
+      "cxxFolder": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx",
+      "gradleModulePathName": ":app",
+      "intermediatesFolder": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/build/intermediates",
+      "makeFile": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
+      "moduleBuildFile": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/build.gradle",
+      "moduleRootFolder": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app",
+      "ndkDefaultAbiList": [
+        "ARMEABI",
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64",
+        "MIPS",
+        "MIPS64"
+      ],
+      "ndkFolder": "/Users/lvzhiwei/Downloads/android-ndk-r11c",
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "MIPS",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "MIPS64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "ndkSupportedAbiList": [
+        "ARMEABI",
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64",
+        "MIPS",
+        "MIPS64"
+      ],
+      "ndkVersion": "11.2.2725575",
+      "project": {
+        "compilerSettingsCacheFolder": "/Users/lvzhiwei/Downloads/loadSoFromInternet/.cxx",
+        "cxxFolder": "/Users/lvzhiwei/Downloads/loadSoFromInternet/.cxx",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isNativeCompilerSettingsCacheEnabled": false,
+        "rootBuildGradleFolder": "/Users/lvzhiwei/Downloads/loadSoFromInternet",
+        "sdkFolder": "/Users/lvzhiwei/Library/Android/sdk"
+      },
+      "splitsAbiFilterSet": [],
+      "stlSharedObjectMap": {
+        "GNUSTL_SHARED": {
+          "ARMEABI": "/Users/lvzhiwei/Downloads/android-ndk-r11c/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi/libgnustl_shared.so",
+          "ARMEABI_V7A": "/Users/lvzhiwei/Downloads/android-ndk-r11c/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/libgnustl_shared.so",
+          "ARM64_V8A": "/Users/lvzhiwei/Downloads/android-ndk-r11c/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/libgnustl_shared.so",
+          "X86": "/Users/lvzhiwei/Downloads/android-ndk-r11c/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/libgnustl_shared.so",
+          "X86_64": "/Users/lvzhiwei/Downloads/android-ndk-r11c/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86_64/libgnustl_shared.so",
+          "MIPS": "/Users/lvzhiwei/Downloads/android-ndk-r11c/sources/cxx-stl/gnu-libstdc++/4.9/libs/mips/libgnustl_shared.so",
+          "MIPS64": "/Users/lvzhiwei/Downloads/android-ndk-r11c/sources/cxx-stl/gnu-libstdc++/4.9/libs/mips64/libgnustl_shared.so"
+        },
+        "GNUSTL_STATIC": {},
+        "LIBCXX_SHARED": {
+          "ARMEABI": "/Users/lvzhiwei/Downloads/android-ndk-r11c/sources/cxx-stl/llvm-libc++/libs/armeabi/libc++_shared.so",
+          "ARMEABI_V7A": "/Users/lvzhiwei/Downloads/android-ndk-r11c/sources/cxx-stl/llvm-libc++/libs/armeabi-v7a/libc++_shared.so",
+          "ARM64_V8A": "/Users/lvzhiwei/Downloads/android-ndk-r11c/sources/cxx-stl/llvm-libc++/libs/arm64-v8a/libc++_shared.so",
+          "X86": "/Users/lvzhiwei/Downloads/android-ndk-r11c/sources/cxx-stl/llvm-libc++/libs/x86/libc++_shared.so",
+          "X86_64": "/Users/lvzhiwei/Downloads/android-ndk-r11c/sources/cxx-stl/llvm-libc++/libs/x86_64/libc++_shared.so",
+          "MIPS": "/Users/lvzhiwei/Downloads/android-ndk-r11c/sources/cxx-stl/llvm-libc++/libs/mips/libc++_shared.so",
+          "MIPS64": "/Users/lvzhiwei/Downloads/android-ndk-r11c/sources/cxx-stl/llvm-libc++/libs/mips64/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "STLPORT_SHARED": {
+          "ARMEABI": "/Users/lvzhiwei/Downloads/android-ndk-r11c/sources/cxx-stl/stlport/libs/armeabi/libstlport_shared.so",
+          "ARMEABI_V7A": "/Users/lvzhiwei/Downloads/android-ndk-r11c/sources/cxx-stl/stlport/libs/armeabi-v7a/libstlport_shared.so",
+          "ARM64_V8A": "/Users/lvzhiwei/Downloads/android-ndk-r11c/sources/cxx-stl/stlport/libs/arm64-v8a/libstlport_shared.so",
+          "X86": "/Users/lvzhiwei/Downloads/android-ndk-r11c/sources/cxx-stl/stlport/libs/x86/libstlport_shared.so",
+          "X86_64": "/Users/lvzhiwei/Downloads/android-ndk-r11c/sources/cxx-stl/stlport/libs/x86_64/libstlport_shared.so",
+          "MIPS": "/Users/lvzhiwei/Downloads/android-ndk-r11c/sources/cxx-stl/stlport/libs/mips/libstlport_shared.so",
+          "MIPS64": "/Users/lvzhiwei/Downloads/android-ndk-r11c/sources/cxx-stl/stlport/libs/mips64/libstlport_shared.so"
+        },
+        "STLPORT_STATIC": {},
+        "SYSTEM": {}
+      }
+    },
+    "objFolder": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/build/intermediates/cmake/debug/obj",
+    "variantName": "debug",
+    "validAbiList": [
+      "ARMEABI",
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64",
+      "MIPS",
+      "MIPS64"
+    ]
+  }
+}
