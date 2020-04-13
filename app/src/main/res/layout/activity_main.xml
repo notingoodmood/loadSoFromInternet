@@ -8,8 +8,8 @@
 
     <TextView
         android:id="@+id/sample_text"
-        android:layout_width="227dp"
-        android:layout_height="53dp"
+        android:layout_width="230dp"
+        android:layout_height="76dp"
         android:layout_marginBottom="104dp"
         android:text="等待加载so库中信息..."
         app:layout_constraintBottom_toBottomOf="parent"
@@ -18,8 +18,8 @@
 
     <TextView
         android:id="@+id/textview_dialogBoard"
-        android:layout_width="392dp"
-        android:layout_height="533dp"
+        android:layout_width="388dp"
+        android:layout_height="517dp"
         android:layout_marginStart="22dp"
         android:layout_marginTop="25dp"
         android:layout_marginEnd="22dp"

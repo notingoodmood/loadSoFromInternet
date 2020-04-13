@@ -1,7 +1,7 @@
 [
   {
     "level": "INFO",
-    "message": "Start JSON generation. Platform version: 28 min SDK version: armeabi-v7a",
+    "message": "Start JSON generation. Platform version: 23 min SDK version: armeabi-v7a",
     "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
     "tag": "release|armeabi-v7a"
   },

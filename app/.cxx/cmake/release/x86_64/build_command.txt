@@ -3,17 +3,17 @@ arguments :
 -H/Users/lvzhiwei/Downloads/loadSoFromInternet/app
 -DCMAKE_CXX_FLAGS=-frtti -fexceptions
 -DCMAKE_BUILD_TYPE=Release
--DCMAKE_TOOLCHAIN_FILE=/Users/lvzhiwei/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DCMAKE_TOOLCHAIN_FILE=/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/build/cmake/android.toolchain.cmake
 -DANDROID_ABI=x86_64
--DANDROID_NDK=/Users/lvzhiwei/Library/Android/sdk/ndk-bundle
--DANDROID_PLATFORM=android-28
+-DANDROID_NDK=/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499
+-DANDROID_PLATFORM=android-23
 -DCMAKE_ANDROID_ARCH_ABI=x86_64
--DCMAKE_ANDROID_NDK=/Users/lvzhiwei/Library/Android/sdk/ndk-bundle
+-DCMAKE_ANDROID_NDK=/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499
 -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
 -DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/lvzhiwei/Downloads/loadSoFromInternet/app/build/intermediates/cmake/release/obj/x86_64
 -DCMAKE_MAKE_PROGRAM=/Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
 -DCMAKE_SYSTEM_NAME=Android
--DCMAKE_SYSTEM_VERSION=28
+-DCMAKE_SYSTEM_VERSION=23
 -B/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/x86_64
 -GNinja
 jvmArgs : 

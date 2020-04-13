@@ -1,8 +1,7 @@
 {
   "buildFiles": [
-    "/Users/lvzhiwei/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
     "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
-    "/Users/lvzhiwei/Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake"
+    "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/build/cmake/android.toolchain.cmake"
   ],
   "cleanCommands": [
     "/Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/debug/arm64-v8a\" clean"

@@ -1,7 +1,7 @@
 [
   {
     "level": "INFO",
-    "message": "Start JSON generation. Platform version: 28 min SDK version: arm64-v8a",
+    "message": "Start JSON generation. Platform version: 23 min SDK version: arm64-v8a",
     "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
     "tag": "debug|arm64-v8a"
   },

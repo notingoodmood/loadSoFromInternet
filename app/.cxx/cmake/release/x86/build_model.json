@@ -1,6 +1,6 @@
 {
   "abi": "X86",
-  "abiPlatformVersion": 28,
+  "abiPlatformVersion": 23,
   "buildSettings": {
     "environmentVariables": []
   },
@@ -16,7 +16,7 @@
         "ndk"
       ],
       "buildRoot": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx/cmake/release/x86",
-      "cmakeToolchain": "/Users/lvzhiwei/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+      "cmakeToolchain": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/build/cmake/android.toolchain.cmake",
       "cmakeExecutable": "/Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
       "variables": [
         {
@@ -29,7 +29,7 @@
         },
         {
           "name": "CMAKE_TOOLCHAIN_FILE",
-          "value": "/Users/lvzhiwei/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake"
+          "value": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/build/cmake/android.toolchain.cmake"
         },
         {
           "name": "ANDROID_ABI",
@@ -37,11 +37,11 @@
         },
         {
           "name": "ANDROID_NDK",
-          "value": "/Users/lvzhiwei/Library/Android/sdk/ndk-bundle"
+          "value": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499"
         },
         {
           "name": "ANDROID_PLATFORM",
-          "value": "android-28"
+          "value": "android-23"
         },
         {
           "name": "CMAKE_ANDROID_ARCH_ABI",
@@ -49,7 +49,7 @@
         },
         {
           "name": "CMAKE_ANDROID_NDK",
-          "value": "/Users/lvzhiwei/Library/Android/sdk/ndk-bundle"
+          "value": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499"
         },
         {
           "name": "CMAKE_EXPORT_COMPILE_COMMANDS",
@@ -69,7 +69,7 @@
         },
         {
           "name": "CMAKE_SYSTEM_VERSION",
-          "value": "28"
+          "value": "23"
         }
       ]
     }
@@ -98,7 +98,7 @@
         "minimumCmakeVersion": "3.10.2",
         "ninjaExe": "/Users/lvzhiwei/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
       },
-      "cmakeToolchainFile": "/Users/lvzhiwei/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+      "cmakeToolchainFile": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/build/cmake/android.toolchain.cmake",
       "cxxFolder": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/.cxx",
       "gradleModulePathName": ":app",
       "intermediatesFolder": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/build/intermediates",
@@ -111,8 +111,14 @@
         "X86",
         "X86_64"
       ],
-      "ndkFolder": "/Users/lvzhiwei/Library/Android/sdk/ndk-bundle",
+      "ndkFolder": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499",
       "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI",
+          "bitness": 32,
+          "deprecated": true,
+          "default": false
+        },
         {
           "abi": "ARMEABI_V7A",
           "bitness": 32,
@@ -124,6 +130,18 @@
           "bitness": 64,
           "deprecated": false,
           "default": true
+        },
+        {
+          "abi": "MIPS",
+          "bitness": 32,
+          "deprecated": true,
+          "default": false
+        },
+        {
+          "abi": "MIPS64",
+          "bitness": 64,
+          "deprecated": true,
+          "default": false
         },
         {
           "abi": "X86",
@@ -138,34 +156,16 @@
           "default": true
         }
       ],
-      "ndkMetaPlatforms": {
-        "min": 16,
-        "max": 29,
-        "aliases": {
-          "20": 19,
-          "25": 24,
-          "J": 16,
-          "J-MR1": 17,
-          "J-MR2": 18,
-          "K": 19,
-          "L": 21,
-          "L-MR1": 22,
-          "M": 23,
-          "N": 24,
-          "N-MR1": 24,
-          "O": 26,
-          "O-MR1": 27,
-          "P": 28,
-          "Q": 29
-        }
-      },
       "ndkSupportedAbiList": [
+        "ARMEABI",
         "ARMEABI_V7A",
         "ARM64_V8A",
+        "MIPS",
+        "MIPS64",
         "X86",
         "X86_64"
       ],
-      "ndkVersion": "21.0.6113669",
+      "ndkVersion": "16.1.4479499",
       "project": {
         "compilerSettingsCacheFolder": "/Users/lvzhiwei/Downloads/loadSoFromInternet/.cxx",
         "cxxFolder": "/Users/lvzhiwei/Downloads/loadSoFromInternet/.cxx",
@@ -177,14 +177,37 @@
       },
       "splitsAbiFilterSet": [],
       "stlSharedObjectMap": {
+        "GNUSTL_SHARED": {
+          "ARMEABI": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi/libgnustl_shared.so",
+          "ARMEABI_V7A": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/libgnustl_shared.so",
+          "ARM64_V8A": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/libgnustl_shared.so",
+          "MIPS": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/mips/libgnustl_shared.so",
+          "MIPS64": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/mips64/libgnustl_shared.so",
+          "X86": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/libgnustl_shared.so",
+          "X86_64": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86_64/libgnustl_shared.so"
+        },
+        "GNUSTL_STATIC": {},
         "LIBCXX_SHARED": {
-          "ARMEABI_V7A": "/Users/lvzhiwei/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
-          "ARM64_V8A": "/Users/lvzhiwei/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
-          "X86": "/Users/lvzhiwei/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
-          "X86_64": "/Users/lvzhiwei/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+          "ARMEABI": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/llvm-libc++/libs/armeabi/libc++_shared.so",
+          "ARMEABI_V7A": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/llvm-libc++/libs/armeabi-v7a/libc++_shared.so",
+          "ARM64_V8A": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/llvm-libc++/libs/arm64-v8a/libc++_shared.so",
+          "MIPS": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/llvm-libc++/libs/mips/libc++_shared.so",
+          "MIPS64": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/llvm-libc++/libs/mips64/libc++_shared.so",
+          "X86": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/llvm-libc++/libs/x86/libc++_shared.so",
+          "X86_64": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/llvm-libc++/libs/x86_64/libc++_shared.so"
         },
         "LIBCXX_STATIC": {},
         "NONE": {},
+        "STLPORT_SHARED": {
+          "ARMEABI": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/stlport/libs/armeabi/libstlport_shared.so",
+          "ARMEABI_V7A": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/stlport/libs/armeabi-v7a/libstlport_shared.so",
+          "ARM64_V8A": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/stlport/libs/arm64-v8a/libstlport_shared.so",
+          "MIPS": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/stlport/libs/mips/libstlport_shared.so",
+          "MIPS64": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/stlport/libs/mips64/libstlport_shared.so",
+          "X86": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/stlport/libs/x86/libstlport_shared.so",
+          "X86_64": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/stlport/libs/x86_64/libstlport_shared.so"
+        },
+        "STLPORT_STATIC": {},
         "SYSTEM": {}
       }
     },

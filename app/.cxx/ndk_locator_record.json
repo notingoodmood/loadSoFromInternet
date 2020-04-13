@@ -1,5 +1,5 @@
 {
-  "ndkFolder": "/Users/lvzhiwei/Library/Android/sdk/ndk-bundle",
+  "ndkFolder": "/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499",
   "messages": [
     {
       "level": "INFO",
@@ -7,7 +7,7 @@
     },
     {
       "level": "INFO",
-      "message": "ndk.dir in local.properties is /Users/lvzhiwei/Library/Android/sdk/ndk-bundle"
+      "message": "ndk.dir in local.properties is /Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499"
     },
     {
       "level": "INFO",
@@ -19,7 +19,7 @@
     },
     {
       "level": "INFO",
-      "message": "Considering /Users/lvzhiwei/Library/Android/sdk/ndk-bundle by ndk.dir"
+      "message": "Considering /Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499 by ndk.dir"
     },
     {
       "level": "INFO",
@@ -31,7 +31,7 @@
     },
     {
       "level": "INFO",
-      "message": "Found requested ndk.dir (/Users/lvzhiwei/Library/Android/sdk/ndk-bundle) which has version 21.0.6113669"
+      "message": "Found requested ndk.dir (/Users/lvzhiwei/Library/Android/sdk/ndk/16.1.4479499) which has version 16.1.4479499"
     }
   ]
 }

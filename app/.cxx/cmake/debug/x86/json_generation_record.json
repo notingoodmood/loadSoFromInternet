@@ -1,7 +1,7 @@
 [
   {
     "level": "INFO",
-    "message": "Start JSON generation. Platform version: 28 min SDK version: x86",
+    "message": "Start JSON generation. Platform version: 23 min SDK version: x86",
     "file": "/Users/lvzhiwei/Downloads/loadSoFromInternet/app/CMakeLists.txt",
     "tag": "debug|x86"
   },
